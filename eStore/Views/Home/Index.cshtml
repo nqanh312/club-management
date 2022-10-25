@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center list d-flex">
+   
+    <ul class="list-group list-group-flush ">
+        <li class="list-group-item">
+            <h3>Shoping</h3>
+            <ul class="list-group ">
+                <li class="list-group-item"><a asp-controller="Product" asp-action="Index">Product</a></li>
+                <li class="list-group-item"><a asp-controller="Product" asp-action="Index">Search</a></li>
+            </ul>
+        </li>
+        <li class="list-group-item">
+            <h3>Administrations</h3>
+            <ul class="list-group ">
+                <li class="list-group-item"><a asp-controller="Member" asp-action="Index">Member</a></li>
+                <li class="list-group-item"><a asp-controller="Order" asp-action="Index">Order</a></li>
+                <li class="list-group-item"><a asp-controller="OrderDetail" asp-action="Index">Order Details</a></li>
+            </ul>
+        </li>
+        <li class="list-group-item"><a asp-controller="Login" asp-action="Index">Login</a></li>
+    </ul>
+</div>
