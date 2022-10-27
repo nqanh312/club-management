@@ -1,0 +1,15 @@
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\bin\Debug\net5.0\ClubManagementObject.deps.json
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\bin\Debug\net5.0\ClubManagementObject.runtimeconfig.json
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\bin\Debug\net5.0\ClubManagementObject.runtimeconfig.dev.json
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\bin\Debug\net5.0\ClubManagementObject.dll
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\bin\Debug\net5.0\ClubManagementObject.pdb
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.csproj.AssemblyReference.cache
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.AssemblyInfoInputs.cache
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.AssemblyInfo.cs
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.csproj.CoreCompileInputs.cache
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.dll
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\refint\ClubManagementObject.dll
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.pdb
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ClubManagementObject.genruntimeconfig.cache
+F:\FPTU\FALL2022\Management_Club\ClubManagementObject\obj\Debug\net5.0\ref\ClubManagementObject.dll
